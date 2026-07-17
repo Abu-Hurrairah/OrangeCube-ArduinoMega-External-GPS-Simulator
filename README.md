@@ -69,7 +69,7 @@ These previews show the Arduino/Pixhawk setup running with Mission Planner displ
   <img src="assets/demo/mission-planner.png" alt="Mission Planner GPS simulation" width="900" />
 </p>
 
-Evidence assets included in this repository:
+Assets included in this repository:
 
 | Asset | Purpose |
 |---|---|
