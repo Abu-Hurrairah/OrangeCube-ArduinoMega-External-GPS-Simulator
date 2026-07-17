@@ -59,6 +59,23 @@ Use **Serial1** on Arduino Mega:
   <img src="assets/arduino-mega-pixhawk-wiring.png" alt="Arduino Mega to Pixhawk Orange Cube Plus wiring" width="850" />
 </p>
 
+These previews show the Arduino/Pixhawk setup running with Mission Planner displaying GPS/map feedback during the test session.
+
+<p align="center">
+  <img src="assets/demo/mission-planner-demo-preview-small.gif" alt="Mission Planner GPS simulation demo preview" width="720" />
+</p>
+
+<p align="center">
+  <img src="assets/demo/mission-planner.png" alt="Mission Planner GPS simulation" width="900" />
+</p>
+
+Evidence assets included in this repository:
+
+| Asset | Purpose |
+|---|---|
+| `assets/demo/mission-planner-demo-preview-small.gif` | Short animated preview extracted from the recorded demo |
+| `assets/demo/mission-planner.png` | Four-frame showing the Mission Planner run |
+
 ---
 
 ## Mission Planner Configuration
