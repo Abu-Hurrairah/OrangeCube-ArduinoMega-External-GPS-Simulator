@@ -217,34 +217,6 @@ Check:
 
 ---
 
-## Repository Structure
-
-```text
-OrangeCube-ArduinoMega-External-GPS-Simulator/
-│
-├── README.md
-├── External_GPS_Simulation_Report.md
-├── requirements.txt
-├── .gitignore
-│
-├── src/
-│   ├── Arduino_Mega_GPS_INPUT_Simulator.ino
-│   ├── Arduino_Mega_SetPositionTarget_Demo.ino
-│   ├── python_gps_input_frame_generator.py
-│   └── python_serial_gps_sender.py
-│
-├── examples/
-│   └── mission_planner_parameters.md
-│
-├── assets/
-│   └── arduino-mega-pixhawk-wiring.png
-│
-└── media/
-    └── demo.mp4
-```
-
----
-
 ## Disclaimer
 
 This project is intended for academic, testing, and simulation purposes. Do not use simulated GPS data for real flight unless the complete system has been tested safely, with proper failsafe configuration, and under expert supervision.
